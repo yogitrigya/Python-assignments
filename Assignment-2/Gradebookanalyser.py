@@ -1,7 +1,6 @@
-'''
-name : Trigya Yogi
-date : December 2 , 2025
-'''
+#name : Trigya Yogi
+#date : December 2 , 2025
+
 
 print("Gradebook Analyser")
 print("Enter your choice: \n1. Manual input\n2. Import CSV file")
